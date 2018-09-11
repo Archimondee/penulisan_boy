@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Guide Mobile Legend",
+    "description": "This project is really great.",
+    "slug": "guide-mobile-legend",
+    "privacy": "public",
+    "sdkVersion": "28.0.0",
+    "platforms": ["android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logonew.png",
+    "splash": {
+      "image": "./assets/logonew.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.boy.mobilelegend"
+    }
+  }
+}
